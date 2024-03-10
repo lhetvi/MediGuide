@@ -1,0 +1,14 @@
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\bin\Debug\MediGuideHostConsole.exe.config
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\bin\Debug\MediGuideHostConsole.exe
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\bin\Debug\MediGuideHostConsole.pdb
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\bin\Debug\MediGuide.dll
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\bin\Debug\MediGuide.pdb
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\bin\Debug\MediGuide.dll.config
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\obj\Debug\MediGuideHostConsole.csproj.AssemblyReference.cache
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\obj\Debug\MediGuideHostConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\obj\Debug\MediGuideHostConsole.Form1.resources
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\obj\Debug\MediGuideHostConsole.csproj.GenerateResource.cache
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\obj\Debug\MediGuideHostConsole.csproj.CoreCompileInputs.cache
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\obj\Debug\MediGuideHostConsole.csproj.CopyComplete
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\obj\Debug\MediGuideHostConsole.exe
+C:\Users\Karan Ladani\source\repos\MediGuideHostConsole\MediGuideHostConsole\obj\Debug\MediGuideHostConsole.pdb
