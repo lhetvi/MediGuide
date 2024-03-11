@@ -117,4 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Welcome to MediGuide, 
+your comprehensive solution for managing medical information effortlessly. 
+Whether you're an admin overseeing medicine data or 
+a customer seeking reliable healthcare insights, 
+we've got you covered. 
+Simplify your healthcare journey with MediGuide today.</value>
+  </data>
 </root>

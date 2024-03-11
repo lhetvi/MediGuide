@@ -82,6 +82,12 @@
     <Compile Include="DeleteMedicine.Designer.cs">
       <DependentUpon>DeleteMedicine.cs</DependentUpon>
     </Compile>
+    <Compile Include="AddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAdmin.Designer.cs">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </Compile>
     <Compile Include="HomePage.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,8 +108,26 @@
     <Compile Include="UpdateMedicine.Designer.cs">
       <DependentUpon>UpdateMedicine.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AddMedicine.resx">
+      <DependentUpon>AddMedicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminHomePage.resx">
+      <DependentUpon>AdminHomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteMedicine.resx">
+      <DependentUpon>DeleteMedicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAdmin.resx">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="HomePage.resx">
       <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MedicineInfo.resx">
+      <DependentUpon>MedicineInfo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -114,6 +138,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="UpdateMedicine.resx">
+      <DependentUpon>UpdateMedicine.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Connected Services\AdminService\MediGuide.xsd">
       <SubType>Designer</SubType>
     </None>
