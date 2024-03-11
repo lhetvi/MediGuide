@@ -1,0 +1,12 @@
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.csproj.AssemblyReference.cache
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.AddMedicine.resources
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.AdminHomePage.resources
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.AdminLogin.resources
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.DeleteMedicine.resources
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.AddAdmin.resources
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.HomePage.resources
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.MedicineInfo.resources
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.Properties.Resources.resources
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.UpdateMedicine.resources
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.csproj.GenerateResource.cache
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.csproj.CoreCompileInputs.cache
