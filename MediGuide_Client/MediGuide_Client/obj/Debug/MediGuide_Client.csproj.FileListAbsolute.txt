@@ -10,3 +10,8 @@ G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.Pr
 G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.UpdateMedicine.resources
 G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.csproj.GenerateResource.cache
 G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.csproj.CoreCompileInputs.cache
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\bin\Debug\MediGuide_Client.exe.config
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\bin\Debug\MediGuide_Client.exe
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\bin\Debug\MediGuide_Client.pdb
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.exe
+G:\WSD\MediGuide\MediGuide_Client\MediGuide_Client\obj\Debug\MediGuide_Client.pdb
