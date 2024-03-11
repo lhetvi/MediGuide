@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\WSD\\MediGuide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\HomePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\HomePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\HomePage.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\HomePage.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\HomePage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\HomePage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\MedicineInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\MedicineInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\DeleteMedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\DeleteMedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\DeleteMedicine.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\DeleteMedicine.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\UpdateMedicine.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\UpdateMedicine.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\UpdateMedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\UpdateMedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddMedicine.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\AddMedicine.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddMedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\AddMedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\AddAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddAdmin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MediGuide_Client\\MediGuide_Client\\AddAdmin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.Designer.cs",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\HomePage.Designer.cs",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\HomePage.Designer.cs",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\HomePage.Designer.cs",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\HomePage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:59:27.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.resx",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\HomePage.resx",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\HomePage.resx",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\HomePage.resx",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\HomePage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-11T13:59:25.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicineInfo.cs",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\MedicineInfo.cs",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\MedicineInfo.cs",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\MedicineInfo.cs",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\MedicineInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:59:22.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteMedicine.Designer.cs",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\DeleteMedicine.Designer.cs",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\DeleteMedicine.Designer.cs",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\DeleteMedicine.Designer.cs",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\DeleteMedicine.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:52:40.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteMedicine.cs",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\DeleteMedicine.cs",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\DeleteMedicine.cs",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\DeleteMedicine.cs",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\DeleteMedicine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:52:38.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\HomePage.cs",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\HomePage.cs",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\HomePage.cs",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\HomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:49:54.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateMedicine.Designer.cs",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\UpdateMedicine.Designer.cs",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\UpdateMedicine.Designer.cs",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\UpdateMedicine.Designer.cs",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\UpdateMedicine.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:51:59.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateMedicine.cs",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\UpdateMedicine.cs",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\UpdateMedicine.cs",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\UpdateMedicine.cs",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\UpdateMedicine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:51:56.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddMedicine.Designer.cs",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddMedicine.Designer.cs",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\AddMedicine.Designer.cs",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddMedicine.Designer.cs",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\AddMedicine.Designer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAOsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:49:22.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddMedicine.cs",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddMedicine.cs",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\AddMedicine.cs",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddMedicine.cs",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\AddMedicine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:49:20.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddAdmin.cs",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddAdmin.cs",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\AddAdmin.cs",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddAdmin.cs",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\AddAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:49:06.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddAdmin.Designer.cs",
+              "DocumentMoniker": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "MediGuide_Client\\MediGuide_Client\\AddAdmin.Designer.cs",
+              "ToolTip": "G:\\WSD\\MediGuide\\MediGuide_Client\\MediGuide_Client\\AddAdmin.Designer.cs",
+              "RelativeToolTip": "MediGuide_Client\\MediGuide_Client\\AddAdmin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:49:00.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -19,14 +19,14 @@ namespace MediGuide_Client
 
         private void button1_Click(object sender, EventArgs e)
         {
-            AdminLoginForm adminLoginForm = new AdminLoginForm();
+            AdminLogin adminLoginForm = new AdminLogin();
             adminLoginForm.Show();
             this.Hide();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MedicineInformationForm medicineInformationForm = new MedicineInformationForm();
+            MedicineInfo medicineInformationForm = new MedicineInfo();
             medicineInformationForm.Show();
             this.Hide();
         }
